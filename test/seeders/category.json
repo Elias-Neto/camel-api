@@ -1,0 +1,21 @@
+[
+    {
+      "name": "parafuso",
+      "description": "Parafuso de cabeça grande",
+      "type": "produto",
+      "deletedAt": null 
+    },
+    {
+        "name": "rosca",
+        "description": "rocsa gente boa",
+        "type": "produto",
+        "deletedAt": null 
+    },
+    {
+        "name": "lanterna",
+        "description": "Lanterna que alumeia tudo",
+        "type": "produto",
+        "deletedAt": null 
+    }
+  ]
+  
